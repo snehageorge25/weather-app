@@ -35,6 +35,7 @@ body {
     background: #ebfffc;
     color: #555;
     padding: 10px 25px;
+    width: 80%;
     height: 60px;
     border-radius: 30px;
     flex: 1;
